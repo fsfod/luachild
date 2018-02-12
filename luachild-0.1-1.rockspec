@@ -1,7 +1,7 @@
 package = "luachild"
 version = "0.1-1"
 source = {
-  url = "git://github.com/pocomane/luachild",
+  url = "git://github.com/fsfod/luachild",
 }
 description = {
   summary = "Spawn sub-processes and communicate with them through pipes.",
